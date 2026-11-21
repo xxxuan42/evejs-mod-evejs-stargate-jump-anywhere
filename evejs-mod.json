@@ -14,7 +14,7 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/xxxuan42/evejs-mod-evejs-stargate-jump-anywhere/releases/download/v1.0.3/evejs-stargate-jump-anywhere-1.0.3.zip"
+      "url": "https://github.com/xxxuan42/evejs-mod-evejs-stargate-jump-anywhere/releases/download/v1.0.5/evejs-stargate-jump-anywhere-1.0.5.zip"
     }
   ],
   "evejsVersions": [
@@ -28,19 +28,19 @@
   "highlights": [],
   "history": [],
   "id": "evejs-stargate-jump-anywhere",
-  "publishedAt": "2026-11-16",
+  "publishedAt": "2026-11-21",
   "readme": [
     "右键星门点「跳跃」直接过门，不再需要先把船贴近到星门 2500m 内。"
   ],
   "repo": "https://github.com/xxxuan42/evejs-mod-evejs-stargate-jump-anywhere",
   "requiresRestart": true,
-  "sha256": "df752458e40e1573c9a8ff5e0eb6094508807201214f920ad5939d3898ae9336",
-  "sizeBytes": 34439,
+  "sha256": "cc9d70764e0ea06ba9376729dbaf27167ae1aa6b35984dd250c46fb1cab829c4",
+  "sizeBytes": 36522,
   "tags": [
     "星门",
     "跳跃",
     "距离",
     "右键菜单"
   ],
-  "version": "1.0.3"
+  "version": "1.0.5"
 }
